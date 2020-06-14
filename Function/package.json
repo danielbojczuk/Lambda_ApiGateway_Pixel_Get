@@ -1,0 +1,15 @@
+{
+  "name": "lampda-apigateway-downloadrecompensa-get",
+  "version": "1.0.0",
+  "description": "Funcao Lambda para receber Contatos pel SPA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Bojczuk",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.683.0",
+    "uuidv4": "^6.1.0"
+  }
+}
